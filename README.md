@@ -16,7 +16,7 @@ Os comandos de condição
 
 Os comandos de decisão que vimos na aula são os que definem o que o programa irá fazer dependendo de alguma condição.
 Seguem os códigos do arquivo condicoes.php abaixo:
-
+~~~php
 	<?php
 	/**
 	 * @desc Comandos de decisão
@@ -52,3 +52,4 @@ Seguem os códigos do arquivo condicoes.php abaixo:
 		case 5:
 			echo "a é igual a 5 <br>";		
 	}
+~~~
